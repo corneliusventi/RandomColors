@@ -15,6 +15,10 @@
 		F21019442909914F007FBF49 /* ColorsTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F21019432909914F007FBF49 /* ColorsTableVC.swift */; };
 		F210194629099415007FBF49 /* ColorsDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F210194529099415007FBF49 /* ColorsDetailVC.swift */; };
 		F21019482909A463007FBF49 /* UIColor+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = F21019472909A463007FBF49 /* UIColor+Ext.swift */; };
+		F21019552909AA8E007FBF49 /* screenshot_4.png in Resources */ = {isa = PBXBuildFile; fileRef = F21019512909AA8D007FBF49 /* screenshot_4.png */; };
+		F21019562909AA8E007FBF49 /* screenshot_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F21019522909AA8E007FBF49 /* screenshot_1.png */; };
+		F21019572909AA8E007FBF49 /* screenshot_2.png in Resources */ = {isa = PBXBuildFile; fileRef = F21019532909AA8E007FBF49 /* screenshot_2.png */; };
+		F21019582909AA8E007FBF49 /* screenshot_3.png in Resources */ = {isa = PBXBuildFile; fileRef = F21019542909AA8E007FBF49 /* screenshot_3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +32,11 @@
 		F21019432909914F007FBF49 /* ColorsTableVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsTableVC.swift; sourceTree = "<group>"; };
 		F210194529099415007FBF49 /* ColorsDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsDetailVC.swift; sourceTree = "<group>"; };
 		F21019472909A463007FBF49 /* UIColor+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Ext.swift"; sourceTree = "<group>"; };
+		F21019512909AA8D007FBF49 /* screenshot_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot_4.png; sourceTree = "<group>"; };
+		F21019522909AA8E007FBF49 /* screenshot_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot_1.png; sourceTree = "<group>"; };
+		F21019532909AA8E007FBF49 /* screenshot_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot_2.png; sourceTree = "<group>"; };
+		F21019542909AA8E007FBF49 /* screenshot_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot_3.png; sourceTree = "<group>"; };
+		F21019592909AAAD007FBF49 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +53,11 @@
 		F210192329098DB9007FBF49 = {
 			isa = PBXGroup;
 			children = (
+				F21019592909AAAD007FBF49 /* README.md */,
+				F21019522909AA8E007FBF49 /* screenshot_1.png */,
+				F21019532909AA8E007FBF49 /* screenshot_2.png */,
+				F21019542909AA8E007FBF49 /* screenshot_3.png */,
+				F21019512909AA8D007FBF49 /* screenshot_4.png */,
 				F210192E29098DB9007FBF49 /* RandomColors */,
 				F210192D29098DB9007FBF49 /* Products */,
 			);
@@ -131,9 +145,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F21019572909AA8E007FBF49 /* screenshot_2.png in Resources */,
+				F21019552909AA8E007FBF49 /* screenshot_4.png in Resources */,
 				F210193C29098DBA007FBF49 /* LaunchScreen.storyboard in Resources */,
 				F210193929098DBA007FBF49 /* Assets.xcassets in Resources */,
+				F21019562909AA8E007FBF49 /* screenshot_1.png in Resources */,
 				F210193729098DB9007FBF49 /* Main.storyboard in Resources */,
+				F21019582909AA8E007FBF49 /* screenshot_3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
